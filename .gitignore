@@ -1,2 +1,11 @@
 *.hi
 *.o
+Geometry
+Geometry.dyn_hi
+Geometry.dyn_o
+Geometry.hi
+Geometry.hs
+Geometry.o
+.ipynb_checkpoints
+Shapes.hs
+haskell-src-files/helloworld/helloworld
